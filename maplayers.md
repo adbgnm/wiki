@@ -1,6 +1,0 @@
-# Map Layers
-
-## Basemaps
-
-### PDOK
-
